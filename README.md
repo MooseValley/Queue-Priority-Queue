@@ -11,6 +11,12 @@ Also switch how the priority works:
 * However, I show a simple way to reverse this and make high numbers = high priority.
 
 
+## YouTube video:
+
+* Java Priority Queue
+https://youtu.be/HpGxwL_AtJc
+
+
 ## TODO: for students:
 
 * Add more Tasks, jumble up the order in which they are added, and confirm for yourself that the items are always retrieved in priority order.
